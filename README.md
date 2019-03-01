@@ -1,6 +1,6 @@
 # Flare
 
-![](images/1.jpg)
+![Flare device image](images/1_small.jpg)
 
 _A lightweight, solar powered USB charger_
 
