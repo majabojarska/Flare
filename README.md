@@ -1,6 +1,6 @@
 # Flare
 
-![Flare device image](images/1_small.jpg)
+![Flare device among flowers](images/DSC09627_compressed.jpg)
 
 _A lightweight, solar powered USB charger_
 
@@ -16,3 +16,7 @@ _A lightweight, solar powered USB charger_
   - LED, appropriate resistor and a switch for status display (optional)
   - Some wood, hinges, screws and nuts
   
+## Images
+![Solar cell upclose](images/DSC09632_compressed.jpg)
+![Voltage regulator upclose](images/DSC09636_compressed.jpg)
+![Flare device image](images/1_small.jpg)
